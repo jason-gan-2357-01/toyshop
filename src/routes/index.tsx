@@ -24,7 +24,7 @@ function CategoriesPage() {
         <div className="absolute inset-0 bg-linear-to-r from-amber-500/10 via-orange-500/10 to-red-500/10"></div>
         <div className="relative max-w-5xl mx-auto">
           <h1 className="text-5xl md:text-6xl font-black text-white mb-4 tracking-[-0.08em]">
-            🎮 Welcome to <span className="bg-linear-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">ToyShop</span>
+            🎮 Come in to <span className="bg-linear-to-r from-amber-400 to-orange-400 bg-clip-text text-transparent">ToyShop</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-2 font-light">
             Discover Amazing Toys for All Ages
